@@ -1,6 +1,0 @@
-{
-  "name": "Momentum",
-  "description": "An intelligent AI-powered momentum task planner and behavioral habit tracker with an autonomous co-pilot, energy-aware scheduling, variable XP gamification, custom auditory focus triggers, and a persistent hard-block deadline blocker.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
